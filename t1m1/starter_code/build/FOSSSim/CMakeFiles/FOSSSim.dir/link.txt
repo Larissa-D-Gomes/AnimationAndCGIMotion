@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wno-unused -g   -no-pie -rdynamic CMakeFiles/FOSSSim.dir/ExplicitEuler.cpp.o CMakeFiles/FOSSSim.dir/SimpleGravityForce.cpp.o CMakeFiles/FOSSSim.dir/TwoDScene.cpp.o  -o FOSSSim  ../../lib/libFOSSSimT1M1base.a -lGL -lGLU -lglut -lpng -lz 

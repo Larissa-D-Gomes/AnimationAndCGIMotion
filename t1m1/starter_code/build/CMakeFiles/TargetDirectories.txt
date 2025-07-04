@@ -1,0 +1,13 @@
+/home/larissagomes/Downloads/t1m1/starter_code/build/CMakeFiles/install/strip.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/CMakeFiles/install/local.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/CMakeFiles/install.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/CMakeFiles/list_install_components.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/CMakeFiles/rebuild_cache.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/CMakeFiles/edit_cache.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/install/strip.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/install.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/list_install_components.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/rebuild_cache.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/edit_cache.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/install/local.dir
+/home/larissagomes/Downloads/t1m1/starter_code/build/FOSSSim/CMakeFiles/FOSSSim.dir
